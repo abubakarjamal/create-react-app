@@ -1,0 +1,63 @@
+.pick {
+  width: 95%;
+  height: 100%;
+}
+.fig{
+  width:40%;
+}
+.pif{
+  width:20%;
+  margin: 10px 5px 5px 10px;
+  border-radius:4px;
+}
+.gred{
+  margin:30px 0 10px 38px;
+  width: 70%;
+  border-radius:6px;
+  align-content: center;
+  background-color:rgb(253,245,231);
+  border:none;
+  
+}
+.team{position:relative}
+.ref{
+margin:50px 3px 10px 3px;
+color:orange;
+}
+.fas{
+  margin-top:30px
+  
+}
+.btu{
+  width:70%;
+  background-color: #FF7E1B;
+  color:white;
+  font-weight:bold;
+  margin:10px 0 15px 38px;
+}
+
+.pifu{
+  width:20%;
+  margin:10px 5px 5px 12px;
+  border-radius:4px ;
+}
+.mony,.mon{
+  font-weight:bold;
+  
+}
+.mon{text-decoration:line-through;
+  opacity: 0.4;
+}
+.taf{
+  margin:30px 50px 0 0;
+  text-align: center;
+  background-color:rgb(253,231,192);
+  color:#FF7E1B;
+  border-radius:5px ;
+  font-weight:bold;
+  padding:5px 0 0 1px;
+}
+.m{
+  margin-top:10px
+  
+}
