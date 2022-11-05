@@ -1,0 +1,22 @@
+.picv{
+  float:left;
+  
+}
+.pi{
+  color:yellow;
+  float: right;
+}
+.bgu{
+  background-color:orange;
+  border-radius:6px;
+  font-weight:bold;
+  color:white;
+}
+.dog{
+  width:100%;
+}
+.pif{
+  width:20%;
+  margin: 10px 5px 5px 10px;
+  border-radius:4px;
+}
